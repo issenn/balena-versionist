@@ -1,0 +1,2 @@
+- name: 'lodash@^4.17.21'
+- name: 'versionist@^7.0.3'
