@@ -1,5 +1,5 @@
 {
-  "name": "balena-versionist",
+  "name": "@issenn/balena-versionist",
   "version": "0.15.0",
   "description": "",
   "main": "lib/index.js",
